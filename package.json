@@ -1,0 +1,22 @@
+{
+  "name": "flights",
+  "version": "1.0.0",
+  "description": "Get flights stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isa-bel/flights.git"
+  },
+  "keywords": [
+    "flights"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isa-bel/flights/issues"
+  },
+  "homepage": "https://github.com/isa-bel/flights#readme"
+}
